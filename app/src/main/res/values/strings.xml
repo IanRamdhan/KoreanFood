@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Korean Food</string>
+    <string-array name="korean_food">
+        <item>Japchae</item>
+        <item>Bibimbap</item>
+        <item>Ramyeon</item>
+        <item>Tteokbokki</item>
+        <item>Kimchi</item>
+        <item>Kimbap</item>
+        <item>Jajangmyeon</item>
+        <item>Sannakji</item>
+        <item>Miyeok Guk</item>
+        <item>Haejangguk</item>
+    </string-array>
+
+    <string-array name="detail_makanan">
+        <item>
+
+            Japchae adalah makanan Korea berupa sohun (dang myeon) yang dicampur dengan berbagai jenis sayuran dan daging sapi. Makanan ini termasuk salah satu banchan, dan dimakan sebagai lauk, terutama dalam pesta dan kesempatan khusus. Sayuran yang digunakan biasanya sayuran yang sedang musim. Japchae ditulis dengan dua aksara hanja, jap (hangul:잡, hanja:雜, dicampur dan diaduk) dan chae (hangul:채, hanja:菜, sayuran).[1]
+
+Bahan-bahan seperti daging sapi dan sayuran (wortel, paprika, jamur shiitake, bawang bombay, dan spinacia) dipotong kecil-kecil memanjang. Masing-masing bahan ditumis secara terpisah untuk mempertahankan aroma dan rasa. Bumbu berupa bawang putih, kecap asin, dan gula pasir ditumis dengan minyak wijen bersama daging sapi. Di dalam wadah atau wajan, semua bahan dicampurkan ke dalam sohun yang sudah direbus, dan diaduk-aduk bersama minyak wijen, irisan cabai, dan wijen. Nasi dengan japchae di atasnya disebut japchae-bap (잡채밥), dan dimakan sebagai hidangan utama.</item>
+        <item>Bibimbap
+
+          Bibimbap adalah masakan Korea berupa semangkuk nasi putih dengan lauk di atasnya berupa sayur-sayuran, daging sapi, telur, dan saus pedas gochujang. Namanya secara harafiah berarti "nasi campur" yang berasal dari kata 비빔 (campur) dan 밥 (nasi). Sebelum dimakan, nasi dan lauk diaduk menjadi satu.
+
+Bibimbap memiliki variasi yang banyak menurut daerahnya di Korea. Kota Jeonju di Jeolla Utara adalah kota asal variasi bibimbap daerah yang paling terkenal di Korea. "Jeonju bibimbap" (nasi campur Jeonju) merupakan bibimbap yang berisi lauk pauk yang paling banyak di Korea.
+
+Terdapat beberapa teori mengenai asal usul bibimbab, salah satunya ada yang mengatakan bahwa makanan ini dibuat dari sesaji yang dipersembahkan kepada arwah leluhur. Sehabis melaksanakan jesa, orang-orang saling berbagi makanan sesaji dan mencampurkannya dalam mangkuk. Ada pula makanan sejenis yang dinamakan heotjesabap atau "makanan sehabis jesa". Nasi campur daging sapi yang berasal dari Kota Jinju, Provinsi Gyeongsang merupakan bibimbap berisi nasi ditambah lauk pauk berupa sayur dan daging sapi mentah (yuk hoe).[1] Menurut sejarah, nasi campur ini tercipta pada masa Perang Imjin ketika rakyat setempat harus menyiapkan masakan yang praktis pada saat-saat genting.
+
+Dolsot bibimbap (돌솥 비빔밥) merupakan bibimbap yang dihidangkan dalam mangkuk dari batu yang sudah dipanaskan. Dolsot berarti "mangkuk batu". Panas dari mangkuk batu akan mematangkan telur mentah yang diletakkan di atas nasi sebagai lauk. Sebelum nasi dimasukkan, minyak wijen dituangkan di dasar mangkuk batu agar terbentuk lapisan kerak nasi yang harum dan garing di dasar mangkuk.</item>
+        <item>
+
+            Ramyeon atau Ramyun adalah hidangan mi kuah ala Korea. Mi ramyeon dapat dibuat dari mi basah atau mi instan, beberapa merek ramyeon instan selain dikonsumsi di Korea Selatan, ada juga yang diekspor ke luar negeri, seperti ke Tiongkok, Hong Kong, Makau, Jepang, dan Indonesia. Ramyeon Korea umumnya bercita rasa agak pedas. Di Korea Selatan, merek yang menguasai pasar adalah Shin Ramyun</item>
+        <item>
+
+            Tteokbokki adalah penganan Korea berupa tteok dari tepung beras yang dimasak dalam bumbu gochujang yang pedas dan manis. Tteok yang dipakai berbentuk batang atau silinder. Penganan ini merupakan makanan rakyat yang banyak dijual di pojangmacha.
+
+Pada awalnya, penganan ini berasal dari masakan istana Dinasti Joseon yang disebut gungjung tteokbokki. Pada waktu itu, masakan ini berupa huintteok yang dimasak dengan kecap asin bersama daging sapi, bagogari, kecambah kacang hijau, peterseli, shiitake, wortel, dan bawang bombay. Rasanya jauh berbeda dari tteokbokki berbumbu cabai yang dikenal sekarang. Selain itu, tteok yang dipakai bisa terdiri dari 5 warna yang melambangkan Korea: merah, kuning, putih, hitam, dan biru.</item>
+        <item>
+
+            Kimchi adalah makanan tradisional Korea, salah satu jenis asinan sayur hasil fermentasi yang diberi bumbu pedas. Setelah digarami dan dicuci, sayuran dicampur dengan bumbu yang dibuat dari udang krill, kecap ikan, bawang putih, jahe dan bubuk cabai merah.
+
+Sayuran yang paling umum dibuat kimchi adalah sawi putih dan lobak. Di zaman dulu, kimchi diucapkan sebagai chim-chae (Hangul: 침채; Hanja: 沈菜) yang berarti "sayuran yang direndam."
+
+Di Korea, kimchi selalu dihidangkan di waktu makan sebagai salah satu jenis banchan yang paling umum. Kimchi juga digunakan sebagai bumbu sewaktu memasak sup kimchi (kimchi jjigae), nasi goreng kimchi (kimchi bokkeumbap), dan berbagai masakan lain.</item>
+        <item>
+
+            Kimbab adalah satu jenis makanan yang sangat mudah dijumpai di Korea. Bukan merupakan makanan yang mahal ataupun sulit dalam membuatnya. Kimbab sangat praktis dan juga banyak dijajakan di pinggir jalan, pedagang kaki lima sampai di pasar-pasar.
+
+Sejarah asal muasal kimbab tidak diketahui dengan pasti. Namun ada referensi dari sebuah buku yang ditulis pada masa Joseon (Korea jaman dahulu kala) berjudul “Dongguk Sesigi”. Dalam buku tersebut disebut-sebut satu jenis makanan yaitu Bokssam yang artinya bungkusan keberuntungan. Makanan tersebut terbuat dari nasi gulung yang dibungkus rumput laut kering atau nori. Nah, makanan Bokssam ini dulunya adalah makanan yang dibawa ketika piknik. Kemungkinan dengan seiring perkembangan jaman dan perubahan bahasa serta kosakata di Korea, makanan bokssam tadi sudah bervariasi dan namanya pun menyesuaikan dengan bahasa saat ini yang lebih praktis, yaitu Kimbab.
+
+Sepintas memang kimbab seperti kelihatan sama dengan sushi atau norimaki dari Jepang. Tapi sebenarnya ada perbedaan pada kedua jenis makanan tersebut, yaitu pada nasi yang digunakan. Nasi pada kimbab diberikan bumbu minyak wijen, sedangkan nasi pada sushi atau norimaki hanya nasi biasa tanpa campuran bumbu lain. Karena kemiripan tadi, ada yang menyebutkan bahwa kimbab adalah jenis makanan yang sebenarnya dibawa oleh orang Jepang pada saat masa penjajahan Korea oleh Jepang. Karena letak geografis dan rumpun yang berdekatan, makanan tersebut pun diterima baik oleh selera orang Korea. Sehingga setelah sekian lama makanan tersebut pun menjadi makanan yang sering dijumpai di Korea meskipun dengan variasi dan citarasa yang beragam seiring perkembangannya.</item>
+        <item>
+
+            Jajangmyeon (atau jjajangmyeon) adalah jenis Masakan Korea yaitu mi saus pasta kacang kedelai hitam. Jajangmyeon dipengaruhi kuliner Tionghoa, dan orang Tiongkok biasa menyebutnya Zhajiangmian (炸醬麵). Jajang artinya saus goreng, dan myeon artinya mi. ajangmyeon memiliki variasi yang lain seperti ganjajangmyeon (간자장면) atau jajangmyeon yang disajikan dengan mi yang sausnya terpisah (tidak dicampur). Variasi lainnya adalah samseon jajangmyeon (삼선자장면) yang menggunakan sausnya dengan campuran makanan laut seperti teripang, cumi-cumi dan udang, tetapi tidak pernah menggunakan ikan. Sedangkan Samseon ganjajangmyeon(삼선간자장면) komposisinya terdiri dari mi dengan saus yang berisikan makanan laut tetapi juga tidak dicampurkan dengan mienya.
+
+Dalam kebiasaan sehari-hari orang Korea tidak menyebutkan kata myeon, mereka hanya menyebutkan kependekannya saja seperti jajang, ganjajang, samseon jajang atau samseon ganjajang.
+
+Jenis makanan lain yang menggunakan saus jajang adalah jajangbap yang terdiri dari saus jajang yang disajikan dengan nasi. Biasanya orang Korea mencampurkannya dengan nasi goreng yang disebut bokeumbap. Sebagai makanan tambahan disajikan juga danmuji (lobak cina)</item>
+        <item>
+
+            Sannakji merupakan salah satu hidangan yang cukup terkenal dari Korea. Sajian ini biasanya menyajikan gurita berukuran sedang atau ada juga yang lebih kecil. Salah satu yang menarik dari Sannakji adalah karena makanan ini harus dimakan dalam keadaan masih hidup!
+
+Biasanya ada gurita yang dipotong-potong dan ada juga yang dimakan secara utuh. Biasanya yang disajikan utuh adalah yang ukurannya lebih kecil. Meski gurita tersebut sudah dipotong tetapi tentakelnya masih bisa aktif bergerak, lo! Nah, bayangkan jika gurita ini dimakan dalam keadaan utuh. Hihi.
+
+Gurita kemudian disajikan dengan sebuah saus yang ditabur wijen, kemudian dimakan hidup-hidup.</item>
+        <item>
+
+            Miyeok Guk (미역국) adalah Makanan yang terbuat dari Rumput laut dan berupa guk yang bahan utamanya miyeok, (rumput laut coklat; Undaria pinnatifida). Kuah terbuat dari kaldu tulang sapi dan kecap. Menurut tradisi, orang Korea menyajikan sup rumput laut kepada ibu yang baru melahirkan karena dipercaya miyeok dapat memperbanyak asi. Makan sup miyeok juga dilakukan pada hari ulang tahun.
+
+Pada zaman dahulu, ayah mertua yang menunggu cucu lahir akan membeli sendiri miyeok yang berukuran panjang dan lebar di pasar. Supaya tidak remuk, miyeok dibawa pulang di punggung diikat tali jerami. Tali jerami dipercaya dapat mengusir arwah jahat.[1] Mereka percaya, jika miyeok remuk atau patah, si ibu akan kesusahan saat melahirkan</item>
+        <item>
+
+            Haejangguk (해장국) adalah jenis guk. Pada zaman dahulu, haejangguk dimakan untuk menyadarkan diri dari rasa mabuk akibat minum sul, sehingga dinamakan juga sulguk ("sup minuman keras"). Lama-kelamaan, haejangguk dikenal sebagai hidangan populer di malam hari. Haejangguk tertulis dalam buku masak Dinasti Joseon tahun 1600-an dengan nama seongjutang yang disantap guna menyadarkan orang dari mabuk. Walau berasal dari Joseon, resep aslinya tak diketahui.
+
+Cara memasak berbeda-beda menurut daerah. Orang Seoul menambah doenjang, tulang sapi, kol cina, dan darah segar. Di Jeonju, haejangguk dimasak dengan kecambah dan kuah dari kaldu, telur, dan jeotgal. Berbeda dengan daerah lain yang direbus panas-panas, di Uljin, haejangguk ditambah cumi-cumi segar yang dipotong tipis-tipis seperti mie, dibumbui dan dimakan dengan kuah dingin dan batu es, sehingga jadilah haejangguk dingin.</item>
+    </string-array>
+</resources>
